@@ -1,0 +1,24 @@
+.body {
+  background-color: blue;
+}
+
+.heading {
+  font-size: 30;
+  border: 2px solid orange;
+  background-color: aquamarine;
+  margin: 10px;
+  padding: 20px;
+}
+
+.chapter {
+  font-size: 30;
+  font-weight: bold;
+  color: chartreuse;
+  margin: 10px;
+  padding: 5px;
+}
+
+.description {
+  font-size: 5;
+  color: orangered;
+}
